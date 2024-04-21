@@ -11,3 +11,17 @@ def are_you_playing_banjo(name):
     #return will not print the result to the console. try printing.
 
 #This is another problem from codewars that goes by the same name as this file name
+
+"""Edit 1, 4/20/24"""
+#Came up with this solution after returning to the problem a few hours later.
+
+def banjo(name):
+    return name + ' plays banjo' if name[0].lower == 'r' else name + ' does not play banjo'
+
+banjo(Robbie)
+banjo(Jessica)
+banjo(Cameron)
+banjo(reggie)
+
+# Does the same thing as my original solution, just takes up less space and is a more efficient use of space overall. Rather than take up multiple lines, you can just condense everything down to one single line. 
+# It might serve you well to refractor or comment code like this when working with a long/complex program.
