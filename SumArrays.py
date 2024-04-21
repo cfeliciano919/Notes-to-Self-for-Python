@@ -21,4 +21,7 @@ def sum_array(a):
 #If a has any contents, then it will simply return the sum of them all.
 #If there aren't any contents, then it will simply return 0, because there is nothing there to begin with.
 #Not much to go over, other than making an effort to remember the built-in functionality of basic functions.
-#In other words, sum already returns 0 if nothing is present. Just like how comparison operators will automatically provide a boolean value. If you want said values returned, then you must call them with return.
+#In other words, sum already returns 0 if nothing is present. Just like how comparison operators will automatically provide a boolean value. If you want said values returned, then you must call them with return
+
+#edit reminder
+"""REMEMBER. Wherever there is a comparison, there is a boolean."""
