@@ -8,3 +8,6 @@ Both analyzing the code solutions and typing out these notes help me to better u
 Since I'm still learning, I've decided to put my notes that I found most helpful here as a way of having one centralized location to view them, in an effort to curb further frustration from staring at the code and not understanding the WHY of how it works.
 
 I also find it enjoyable to try to decipher the code, and rewarding when I feel like I have a greater understanding afterwards.
+
+Edit 04/21/24:
+I suppose it's worth noting that all of my files here have been edited and created in the default Python IDLE that comes with the Python 3 download available on their website. 
